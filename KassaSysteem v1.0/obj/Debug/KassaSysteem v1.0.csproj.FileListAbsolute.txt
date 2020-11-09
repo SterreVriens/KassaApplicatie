@@ -1,0 +1,45 @@
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csprojAssemblyReference.cache
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.Properties.Resources.resources
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csproj.GenerateResource.cache
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.exe.config
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.exe
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.pdb
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.exe
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.pdb
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.MainForm.resources
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.CustomerForm.resources
+C:\Users\jurge\source\repos\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.ArticleSearchForm.resources
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.exe.config
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.exe
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.pdb
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csprojAssemblyReference.cache
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.ArticleSearchForm.resources
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.CustomerForm.resources
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.MainForm.resources
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.Properties.Resources.resources
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csproj.GenerateResource.cache
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.exe
+C:\Users\jurge\OneDrive\Documenten\a\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.pdb
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.exe.config
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.exe
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.pdb
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csprojAssemblyReference.cache
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.ArticleSearchForm.resources
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.MainForm.resources
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.Properties.Resources.resources
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csproj.GenerateResource.cache
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.exe
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.pdb
+C:\Users\basde\Downloads\KassaSysteem v1.0\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.d.resources
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csprojAssemblyReference.cache
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.ArticleSearchForm.resources
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.d.resources
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.MainForm.resources
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem_v1._0.Properties.Resources.resources
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csproj.GenerateResource.cache
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.csproj.CoreCompileInputs.cache
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.exe
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\obj\Debug\KassaSysteem v1.0.pdb
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.exe.config
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.exe
+C:\Users\sterr\Desktop\School\Jaar 1\Projecten\GAP-week\Kassasysteem\nieuw\KassaSysteem v1.0\bin\Debug\KassaSysteem v1.0.pdb
